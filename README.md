@@ -26,7 +26,7 @@ Music has the power to evoke emotions, and data tells the story of our world. By
 A big shoutout to all data providers, open-source libraries, and music enthusiasts who made this journey possible.
 
 **List of Projects**:
-(Note: Update this list as you add more projects to the repository.)
+(Note: this one is an ever expanding and ever evolving list)
 - [Project 1](./Temperature_Tunes) - Brief description of Temperature Tunes.
 - [Project 2](./Precipitation_Rhythms) - Brief description of Precipitation_Rhythms.
 - [Project 3](./Aural_Aridity) - Brief description of Aural_Aridity.
