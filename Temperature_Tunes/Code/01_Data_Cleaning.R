@@ -10,31 +10,6 @@ packages <- list("ncdf4","here","tidyverse","raster","progress","ggplot2",
 
 lapply(packages, require,character.only = T)
 
-##############
-##### Download data ###
-######## 
-
-#### setting a high timeout limit ## setting it to 10 minutes 
-
-options(timeout=600)
-
-# Define the URL
-url <- "https://www.ncei.noaa.gov/data/nclimgrid-monthly/access/nclimgrid_tavg.nc"
-
-# Define the destination file path using here()
-dest_file <- here("Datasets", "nclimgrid_tavg.nc")
-
-
-# Check if "Datasets" folder exists, if not, create it
-if (!dir.exists(here("Datasets"))) {
-  dir.create(here("Datasets"))
-}
-
-# Download the file
-download.file(url, dest_file, mode = "wb")
-
-
-
 ### read the file ###
 
 temp_data <- brick(here("Datasets","nclimgrid_tavg.nc"))
