@@ -21,14 +21,23 @@ Yearly Averages: The dataset provides monthly temperature data. To simplify and 
 **3. Data Visualization:**
 Plots: I've created plots for each year to visualize the average temperature. These plots provide a visual representation of the temperature trends over the years.
 
-Recommendation: Insert plots for select years (e.g., 1960, 1980, 2000, 2020) here to give readers a glimpse of the data.
+https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Temperature_Tunes/plot_1960.png  
 
-Timelapse: A timelapse has been crafted to show the changes in temperature over time. This animation provides a dynamic view of how temperatures have evolved.
+https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Temperature_Tunes/plot_1980.png 
 
-Recommendation: Embed the timelapse here for a captivating visual experience.
+https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Temperature_Tunes/plot_2000.png 
+
+https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Temperature_Tunes/plot_2023.png 
+
+
+**Timelapse:** 
+A timelapse has been crafted to show the changes in temperature over time. This animation provides a dynamic view of how temperatures have evolved.
+
+https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Temperature_Tunes/Temperature_change.gif
 
 ## Data Sonification 🎵
-Sonification Blueprint:
+
+**Sonification Blueprint:**
 Our blueprint for sonification consists of various sections, each designed to convey a specific narrative phase of the temperature data:
 
 **Introduction:** Setting the stage with a calm Ionian mode, rooted at note 60.
