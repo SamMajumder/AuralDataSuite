@@ -4,6 +4,8 @@ Welcome to the "Temperature Tunes" project, where data-driven sounds harmoniousl
 ## Overview 🌐
 In this project, we've embarked on a journey to sonify temperature data from 1960 to 2023. The sonification is not just a mere representation of data in sound but is designed to be integrated with a musical composition, creating a symphonic blend that offers listeners both an intellectual understanding and an emotional connection to the data.
 
+**Link to the dataset:** https://www.ncei.noaa.gov/data/nclimgrid-monthly/access/ 
+
 ## Data Source and Information 📜
 The temperature data for this project is sourced from the National Centers for Environmental Information (NCEI). This dataset, part of the NCLIMGRID product, provides monthly temperature averages across the contiguous US. It's a valuable resource for understanding long-term temperature trends and variations.
 
