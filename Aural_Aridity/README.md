@@ -27,7 +27,8 @@ The study focuses on the contiguous United States, providing insights into the d
 Link to Dataset: https://www.ncei.noaa.gov/pub/data/nidis/indices/nclimgrid-monthly/spei-pearson/nclimgrid-spei-pearson-01.nc
 
 2. **Data Processing**:
-   - Yearly Averages: The dataset provides monthly SPEI values. To provide a clearer trend, we calculated the yearly average SPEI for each year.
+   - Yearly Averages: The dataset provides monthly SPEI values. To provide a clearer trend, we calculated the yearly average SPEI for each year between 1960 and 
+      2023
 
 3. **Data Visualization**:
    - Plots: We've created plots for each year to visualize the average SPEI. These plots offer a visual representation of the drought trends over the years.
