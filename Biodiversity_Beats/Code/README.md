@@ -1,6 +1,6 @@
-# Biodiversity Beats: Monitoring and Sonifying NDVI Changes in the Sundarbans Mangroves
+# Biodiversity Beats: Monitoring and Sonifying NDVI Changes in the Sundarbans Mangroves 🎶🌡️
 
-## Overview
+## Overview 
 
 Biodiversity Beats is a data sonification project focused on monitoring and sonifying the changes in the Normalized Difference Vegetation Index (NDVI) in the Sundarbans Mangroves from 2000 to 2023. NDVI is a crucial indicator of vegetation health, and monitoring its changes can provide insights into environmental factors affecting the Sundarbans, a UNESCO World Heritage Site and the largest mangrove forest in the world. By transforming this data into sound, we aim to provide a unique auditory experience of the changes occurring in this vital ecosystem.
 
