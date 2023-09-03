@@ -20,7 +20,7 @@ The study focuses on the contiguous United States, providing insights into the d
 ## Data Processing and Visualization 📊
 
 1. **Data Acquisition and Cleaning**:
-   - **R Packages Used**: [Specify the R packages used for data acquisition and cleaning]
+   - **R Packages Used**: raster, ncdf4, tidyverse suite of packages
    - Using R, we've acquired the SPEI data from the netCDF file format.
    - Data Cleaning: The raw data was subset to focus on the relevant time frame, ensuring that we captured the essence of drought conditions over the years.
 
