@@ -24,6 +24,8 @@ The study focuses on the contiguous United States, providing insights into the d
    - Using R, we've acquired the SPEI data from the netCDF file format.
    - Data Cleaning: The raw data was subset to focus on the relevant time frame, ensuring that we captured the essence of drought conditions over the years.
 
+Link to Dataset: https://www.ncei.noaa.gov/pub/data/nidis/indices/nclimgrid-monthly/spei-pearson/nclimgrid-spei-pearson-01.nc
+
 2. **Data Processing**:
    - Yearly Averages: The dataset provides monthly SPEI values. To provide a clearer trend, we calculated the yearly average SPEI for each year.
 
