@@ -59,4 +59,24 @@ The sonification is structured around the musical blueprint mentioned above. Thi
 ## Blended Music Composition 🎼
 While the sonified data provides an auditory representation of temperature changes, the project's essence lies in blending this sonification with a musical composition. This composition will be inspired by the data and will elevate the listening experience.
 
-Note: The blended music composition is currently in progress. Stay tuned for an immersive musical journey that seamlessly integrates data sonification with artistic melodies.
+Note: The blended music composition is currently in progress. Stay tuned for an immersive musical journey that seamlessly integrates data sonification with artistic melodies.   
+
+
+- **Python Packages Used**:
+  - `MIDIUtil`: For generating MIDI files from the data.
+  - `pydsmid`: For MIDI manipulations.
+
+The sonification process involved transforming the temperature data into a musical composition. The temperature values were mapped to musical notes, with variations in temperature resulting in different musical patterns. The composition was structured into different sections, each representing a specific theme or period.
+
+## Reproduction Steps
+
+1. Install the necessary R and Python packages.
+2. Load the temperature data.
+3. Process and visualize the data.
+4. Use the provided sonification blueprint to transform the data into a musical composition.
+5. Export the composition as MIDI files.
+
+
+
+
+
