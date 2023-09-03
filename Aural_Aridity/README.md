@@ -10,6 +10,9 @@ Welcome to "Aural Aridity", where the intricacies of drought conditions are soni
 
 The SPEI data for this project is sourced from the National Centers for Environmental Information (NCEI). SPEI is an index that quantifies drought by considering both precipitation and potential evapotranspiration. It provides a comprehensive measure of water availability and drought severity.
 
+More information about SPEI can we found here: https://journals.ametsoc.org/view/journals/clim/23/7/2009jcli2909.1.xml?tab_body=pdf
+and here: https://climatedataguide.ucar.edu/climate-data/standardized-precipitation-evapotranspiration-index-spei
+
 ### Study Area 🌎
 
 The study focuses on the contiguous United States, providing insights into the drought conditions prevalent in this vast region.
@@ -26,12 +29,17 @@ The study focuses on the contiguous United States, providing insights into the d
 
 3. **Data Visualization**:
    - Plots: We've created plots for each year to visualize the average SPEI. These plots offer a visual representation of the drought trends over the years.
-   - 
+
+     ![](https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Aural_Aridity/plot_1960.png)
+     ![](https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Aural_Aridity/plot_1980.png)
+     ![](https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Aural_Aridity/plot_2000.png)
+     ![](https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Aural_Aridity/plot_2023.png)
+
+     ![](https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/SPEI.gif)
   
 4.  **Timelapse Video**
-     Sho
-  
-   - 
+     This shows the change in SPEI values over a period of 63 years in the contiguous US
+     ![](https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Aural_Aridity/Timelapse_SPEI.gif)
 
 ## Data Sonification 🎵
 
