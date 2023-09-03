@@ -29,7 +29,6 @@ Plots: I've created plots for each year to visualize the average temperature. Th
 
 ![](https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Temperature_Tunes/plot_2023.png) 
 
-
 ![](https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Temperature_Tunes/Temperature_change.gif)
 
 
@@ -61,8 +60,7 @@ While the sonified data provides an auditory representation of temperature chang
 
 Note: The blended music composition is currently in progress. Stay tuned for an immersive musical journey that seamlessly integrates data sonification with artistic melodies.   
 
-
-- **Python Packages Used**:
+ **Python Packages Used**:
   - `MIDIUtil`: For generating MIDI files from the data.
   - `pydsmid`: For MIDI manipulations.
 
