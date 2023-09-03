@@ -41,13 +41,30 @@ The study focuses on the contiguous United States, providing insights into the d
      This shows the change in SPEI values over a period of 63 years in the contiguous US
      ![](https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Aural_Aridity/Timelapse_SPEI.gif)
 
-## Data Sonification 🎵
+## Sonification Process:
+Data to Musical Notes: Using Python, the temperature data will be converted into musical notes. The conversion maps temperature values to specific pitches, creating a unique auditory representation of the data.
 
-The sonification process for "Aural Aridity" mirrors that of our other projects. The data is converted into musical notes, structured around a musical blueprint, and then blended with a musical composition to create a harmonious auditory experience.
-
-- **Python Packages Used**: [Specify the Python packages used for sonification]
+## Musical Structure: 
+The sonification is structured around a musical blueprint that is currently in the works. This blueprint defines different sections of the musical piece, each with its mood, mode, and root note. The SPEI data is sonified within this structure, ensuring that the data-driven sounds align with the intended musical narrative.
 
 ## Blended Music Composition 🎼
+While the sonified data provides an auditory representation of temperature changes, the project's essence lies in blending this sonification with a musical composition. This composition will be inspired by the data and will elevate the listening experience.
 
-The sonified data provides an auditory representation of drought conditions. This sonification will be harmoniously blended with a musical composition, creating a symphonic experience that resonates with the rhythm of aridity.
+Note: The blended music composition is currently in progress. Stay tuned for an immersive musical journey that seamlessly integrates data sonification with artistic melodies.   
+
+ **Python Packages Used**:
+  - `MIDIUtil`: For generating MIDI files from the data.
+  - `pydsmid`: For MIDI manipulations.
+
+The sonification process involved transforming the SPEI data into a musical composition. The SPEI values were mapped to musical notes, with variations in SPEI (drought patterns) resulting in different musical patterns. The composition was structured into different sections, each representing a specific theme or period.
+
+## Reproduction Steps
+
+1. Install the necessary R and Python packages.
+2. Load the temperature data.
+3. Process and visualize the data.
+4. Use the provided sonification blueprint to transform the data into a musical composition.
+5. Export the composition as MIDI files.
+
+
 
