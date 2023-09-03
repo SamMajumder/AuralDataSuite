@@ -31,11 +31,12 @@ Plots: I've created plots for each year to visualize the average temperature. Th
 
 ![](https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Temperature_Tunes/Temperature_change.gif)
 
+![](https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Temperature_change.gif)
 
 **Timelapse:** 
 A timelapse has been crafted to show the changes in temperature over time. This animation provides a dynamic view of how temperatures have evolved.
 
-![](https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Temperature_Tunes/Temperature_timelapse.gif)
+![](https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Temperature_Tunes/Timelapse_temperature.gif)
 
 ## Data Sonification 🎵
 
