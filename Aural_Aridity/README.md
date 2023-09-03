@@ -31,7 +31,8 @@ Link to Dataset: https://www.ncei.noaa.gov/pub/data/nidis/indices/nclimgrid-mont
       2023
 
 3. **Data Visualization**:
-   - Plots: We've created plots for each year to visualize the average SPEI. These plots offer a visual representation of the drought trends over the years.
+   - Plots: We've created plots for each year to visualize the average SPEI. These plots offer a visual representation of the drought trends over a few selected 
+     years.
 
      ![](https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Aural_Aridity/plot_1960.png)
      ![](https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Aural_Aridity/plot_1980.png)
