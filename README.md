@@ -28,12 +28,11 @@ A big shoutout to all data providers, open-source libraries, and music enthusias
 **List of Projects**:
 (Note: this one is an ever expanding and ever evolving list)
 - [Project 1](./Temperature_Tunes) - Brief description of Temperature Tunes.
-- [Project 2](./Precipitation_Rhythms) - Brief description of Precipitation_Rhythms.
-- [Project 3](./Aural_Aridity) - Brief description of Aural_Aridity.
-- [Project 4](./Biodiversity_Beats) - Brief description of Biodiversity_Beats.
-- [Project 5](./Desertification_Drones) - Brief description of Desertification_Drones.
-- [Project 6](./Deforestation_Drums) - Brief description of Deforestation_Drums.
-- [Project 7](./Echoes_of_Helianthus) - Brief description of Echoes_of_Helianthus.
+- [Project 2](./Aural_Aridity) - Brief description of Aural_Aridity.
+- [Project 3](./Biodiversity_Beats) - Brief description of Biodiversity_Beats.
+- [Project 4](./Desertification_Drones) - Brief description of Desertification_Drones.
+- [Project 5](./Deforestation_Drums) - Brief description of Deforestation_Drums.
+- [Project 6](./Echoes_of_Helianthus) - Brief description of Echoes_of_Helianthus.
 
 
 
