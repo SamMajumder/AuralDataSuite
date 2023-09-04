@@ -4,7 +4,7 @@
 
 Chocó-Darién Rainforest, a biodiversity hotspot located between Panama and Colombia.
 
-![Insert Map of Chocó-Darién Rainforest Here](path_to_study_region_map_image)
+![](https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Deforestation_Drums/Study_area.png)
 
 ## 🛰️ Data Source
 
@@ -14,9 +14,10 @@ We utilize the **Hansen Global Forest Change** dataset, specifically the 2019 ve
 
 1. **Data Acquisition**: Retrieve forest loss data for each year from the Hansen Global Forest Change dataset using the Earth Engine module.
 2. **Data Preprocessing**: Process the data to get forest loss for each year, focusing on the Chocó-Darién Rainforest region.
-3. **Data Visualization**: Visualize the processed data using the `folium` package, overlaying GeoTIFFs on individual maps to showcase forest loss for each year.
+3. **Data Visualization**: Visualize the processed data using the `folium` package, overlaying GeoTIFFs on individual maps to showcase forest loss for each year 
+    and create a Timelapse from the images
 
-![Insert Data Visualization Plot Here](path_to_data_visualization_plot)
+![](https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Deforestation_timelapse.gif)
 
 ## 📦 Packages and Tools Used
 
