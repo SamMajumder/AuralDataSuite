@@ -1,5 +1,9 @@
 # 🌻 Echoes of Helianthus: Sonifying Sunflower Historical Cultivation Data 🎶
 
+📝 **Note**: This is data was also used in a recent machine learning project where interpretable machine learning tecniques were used to assess the impact of climate change on sunflower cultivation in the US. Check out this repo if interested: https://github.com/SamMajumder/Yield_forecast_Sunflowers
+
+📝 **Note**: A cool Shiny app showing the main results of that machine learning project can be found here: https://sammajumder.shinyapps.io/SunScope/ 
+
 ## 🌐 Study Region
 
 United States, focusing on states with significant sunflower cultivation such as South Dakota, Nebraska, Texas, Kansas, Colorado, North Dakota, and Minnesota.
@@ -46,5 +50,7 @@ The ultimate goal of this project is to sonify the sunflower historical cultivat
 
 ---
 
-📝 **Note**: This is a sonification project, aiming to provide a unique auditory perspective on sunflower cultivation trends. The project is still ongoing, and updates will be posted regularly.
+📝 **Note**: This is a sonification project, aiming to provide a unique auditory perspective on sunflower cultivation trends. The project is still ongoing, and updates will be posted regularly. 
+
+
 
