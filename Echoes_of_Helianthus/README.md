@@ -16,11 +16,11 @@ We utilize data from the **USDA's Quick Stats** database to monitor historical s
 2. **Data Preprocessing**: Process the data to get average yearly yield for each state. Filter out inconsistent data and states with sparse data.
 3. **Data Visualization**: Visualize the processed data using the `ggplot2` package, showcasing the average yearly yield for each state.
 
-![]()
+![](https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Echoes_of_Helianthus/Sunflower_Yield.jpg)
 
 4. **Data Animation**: Create an animated plot to visualize the changes in sunflower yield over the years using the `gganimate` package.
 
-![]()
+![](https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Yield.gif)
 
 ## 📦 Packages Used
 
