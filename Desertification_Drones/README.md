@@ -8,14 +8,17 @@ The Sahel region, a transitional zone in Africa between the Sahara to the north 
 
 ## 🛰️ Data Source
 
-We utilize MODIS (Moderate Resolution Imaging Spectroradiometer) satellite imagery to monitor vegetation changes indicative of desertification.
+**Datasets**:
+  - `MODIS/006/MOD13A2`: We utilize MODIS (Moderate Resolution Imaging Spectroradiometer) satellite imagery to monitor vegetation changes indicative of desertification. This dataset provides NDVI values at a 16-day interval.
 
-## 📈 Steps to Reproduce
 
-1. **Data Acquisition**: Retrieve MODIS NDVI data for the Sahel region.
-2. **Data Preprocessing**: Process and normalize the satellite data to highlight areas of vegetation loss.
-3. **Data Visualization**: Visualize the processed data using Python libraries and tools like `folium`, `rasterio`, and `matplotlib` and create a timelapse video of the change in NDVI 
-     values over time
+## Data Processing and Calculation
+
+1. **Data Acquisition**:   Retrieve MODIS NDVI data for the Sahel region.
+2. **Data Preprocessing**: The 16-day interval NDVI data is aggregated to get the mean NDVI value for each year.
+3. **Data Visualization**: The mean NDVI values are visualized on a map to show the spatial distribution of vegetation health in the Sahel region. Visualize the processed data using 
+                            Python libraries and tools like `folium`, `rasterio`, and `matplotlib` and create a timelapse video of the change in NDVI values over time
+
    
    **Timelapse video**
 
