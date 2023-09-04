@@ -12,17 +12,19 @@ The Sundarbans Mangroves span across Bangladesh and India and are the largest ma
 
 The data for this project is sourced from the MODIS (Moderate Resolution Imaging Spectroradiometer) satellite's `MOD13A2` product. This product provides NDVI values at a 16-day interval, which we've aggregated annually for our analysis.
 
+
 **Datasets**:
-  - `MODIS/006/MOD13A2`: This dataset provides NDVI values at a 16-day interval.
+  - `MODIS/006/MOD13A2`: We utilize MODIS (Moderate Resolution Imaging Spectroradiometer) satellite imagery to monitor vegetation changes indicative of desertification. This dataset provides NDVI values at a 16-day interval.
 
 
 ## Data Processing and Calculation
 
 The data processing involves the following steps:
 
-1. **Data Extraction**: We extract the MODIS NDVI data for each year within our study period.
+1. **Data Extraction**: We extract the MODIS NDVI data within our study period.
 2. **Data Aggregation**: The 16-day interval NDVI data is aggregated to get the mean NDVI value for each year.
-3. **Data Visualization**: The mean NDVI values are visualized on a map to show the spatial distribution of vegetation health in the Sundarbans.
+3. **Data Visualization**: The mean NDVI values are visualized on a map to show the spatial distribution of vegetation health in the Sundarbans. Visualize the processed data using 
+                            Python libraries and tools like `matplotlib` and create a timelapse video of the change in NDVI values over time
 
 ## Trends
 
