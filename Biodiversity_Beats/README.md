@@ -27,17 +27,17 @@ The data processing involves the following steps:
 ## Trends
 
 1. **Plots**: Trend of NDVI values over the years.
-    ![](https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Biodiversity_Beats/Code/NDVI_2000.png)
-    ![](https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Biodiversity_Beats/Code/NDVI_2005.png)
-    ![](https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Biodiversity_Beats/Code/NDVI_2010.png)
-    ![](https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Biodiversity_Beats/Code/NDVI_2010.png)
-    ![](https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Biodiversity_Beats/Code/NDVI_2015.png)
-    ![](https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Biodiversity_Beats/Code/NDVI_2023.png)
+    ![](https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Biodiversity_Beats/NDVI_2000.png)
+    ![](https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Biodiversity_Beats/NDVI_2005.png)
+    ![](https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Biodiversity_Beats/NDVI_2010.png)
+    ![](https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Biodiversity_Beats/NDVI_2015.png)
+    ![](https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Biodiversity_Beats/NDVI_2023.png)
+   
    
 
 3. **Timelapse Video**:
    A timelapse video showing the change in NDVI from 2000 to 2023 
-   ![](https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Biodiversity_Beats/Code/Sundarban_Biodiversity_beats.gif)
+   ![](https://github.com/SamMajumder/Data_Viz_Ecology_Sonification_Projects/blob/main/Sundarban_Biodiversity_beats.gif)
 
 ## Sonification and Music Composition
 
