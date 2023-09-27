@@ -39,7 +39,6 @@ The ultimate goal of this project is to sonify the forest loss data, transformin
 1. Clone this repository.
 2. Install the required Python packages.
 3. Run the provided Python script to fetch the data, preprocess it, and generate visualizations.
-4. Check the `Figures` folder for the generated figures and timelapse videos.
 
 ---
 
