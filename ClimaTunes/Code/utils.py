@@ -300,3 +300,51 @@ def convert_to_midi_with_max_durartion(column, output_file, velocity_column, dur
     midi_data.write(output_file)
     return midi_data, scale_factor, csv_output_path
 
+
+
+##########
+## 
+
+# Function to plot a single dataset 
+## this function is apt for netcdf files which only has one layer and it represents a single time slice
+
+# Function to plot a single dataset and return the plot figure
+
+def plot_dataset(ds, label, variable="t2m", lon="longitude", lat="latitude", cmap='RdYlBu_r'):
+    # Extract the variable you want to plot (e.g., t2m)
+    data = ds[variable].squeeze()  # Remove the time dimension if it's singleton
+
+    # Create the plot
+    fig, ax = plt.subplots(figsize=(10, 6))
+    cax = ax.contourf(data[lon], data[lat], data, cmap=cmap)
+    cbar = fig.colorbar(cax)
+    cbar.ax.remove()  # Remove the color bar
+    
+
+    # Add the year-month label to the right with bold black text
+    ax.annotate(label, xy=(0.9, 0.9), xycoords='axes fraction', 
+                ha='center', va='center', fontsize=12, color='black', 
+                weight='bold', rotation='horizontal')
+
+    # Remove plot labels, x and y axes titles
+    ax.set_xlabel('')
+    ax.set_ylabel('')
+    ax.set_title('') 
+    
+    # Hide X and Y axes label marks
+    ax.xaxis.set_tick_params(labelbottom=False)
+    ax.yaxis.set_tick_params(labelleft=False)
+
+    # Hide X and Y axes tick marks
+    ax.set_xticks([])
+    ax.set_yticks([])
+
+    
+    
+    return fig
+
+############
+### 
+
+
+
